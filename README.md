@@ -85,7 +85,7 @@ Usa un sensor ultrasónico para medir la distancia a un objeto, los valores se m
 - LED conectado al pin 13.
 
 # Diagrama:
-![Diagrama Sensor Ultrasónico y LCD](imagenes/lcd, ultrasonico.png)
+![Diagrama Sensor Ultrasónico y LCD](imagenes/lcd,ultrasonico.png)
 
 
 # Proyecto: Sensor Ultrasónico con LEDs y LCD
@@ -101,7 +101,7 @@ Expande la funcionalidad del programa anterior al usar varios LEDs para indicar 
 - Resistencias de 220Ω para cada LED.
 
 # Diagrama:
-![Diagrama  Sensor Ultrasónico con LEDs y LCD](imagenes/ultrasonico, lcd y leds.png)
+![Diagrama  Sensor Ultrasónico con LEDs y LCD](imagenes/ultrasonico,lcdyleds.png)
 
 # Proyecto: Sensor de Temperatura y Humedad
 
@@ -116,7 +116,7 @@ Utiliza un sensor DHT11 para medir la temperatura y humedad del entorno, si la t
 
 
 # Diagrama:
-![Diagrama Sensor de temperatura y Humedad](imagenes/temp y humed.png)
+![Diagrama Sensor de temperatura y Humedad](imagenes/tempyhumed.png)
 
 
 # Proyecto:  Sensor Touch
@@ -178,7 +178,7 @@ Detecta si el suelo está seco o húmedo, enciende un LED si el suelo está húm
 - Buzzer conectado al pin A1.
 
 # Diagrama:
-![Diagrama Sensor de agua con chichara](imagenes/sensorHumedadSuelo y Chicharra.png)
+![Diagrama Sensor de agua con chichara](imagenes/sensorHumedadSueloyChicharra.png)
 
 
 # Proyecto: ServoMotor
