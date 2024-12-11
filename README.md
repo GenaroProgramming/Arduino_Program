@@ -148,7 +148,7 @@ El programa utiliza un joystick para controlar cuatro LEDs, asignando movimiento
 
 
 # Diagrama:
-![Diagrama Joystick](imagenes/joystick.png)
+![Diagrama Joystick](imagenes/imgJoystick.png)
 
 
 # Proyecto: Sensor de Agua
