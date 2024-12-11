@@ -1,4 +1,3 @@
-Documentación del Proyecto Arduino:
 Sistema de Sensor de Agua
 
 Descripción:
