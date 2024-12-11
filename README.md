@@ -12,7 +12,7 @@ El programa enciende un LED conectado al pin 13 de forma continua.
 - Resistencia de 220Ω.
 
 # Diagrama:
-![Diagrama LED](imagenes/aguaSensor.png)
+![Diagrama LED](imagenes/led.png)
 
 
 # Proyecto: Serie de LEDs
@@ -26,7 +26,7 @@ Controla tres LEDs (verde, amarillo y rojo) en una secuencia con retardos defini
 - Resistencias de 220Ω para cada LED.
 
 # Diagrama:
-![Diagrama Serie de LEDs](imagenes/aguaSensor.png)
+![Diagrama Serie de LEDs](imagenes/serie.png)
 
 
 # Proyecto:  LED RGB
@@ -40,7 +40,7 @@ El programa controla un LED RGB utilizando tres pines digitales, se asignan valo
 - Resistencias de 220Ω para cada pin.
 
 # Diagrama:
-![Diagrama LED RGB](imagenes/aguaSensor.png)
+![Diagrama LED RGB](imagenes/rgb.png)
 
 
 # Proyecto: Semáforo con LEDs
@@ -54,7 +54,7 @@ Simula un semáforo utilizando tres LEDs (rojo, amarillo y verde). Los LEDs se e
 - Resistencias de 220Ω para cada LED.
 
 # Diagrama:
-![Diagrama Semáforo con LEDs](imagenes/aguaSensor.png)
+![Diagrama Semáforo con LEDs](imagenes/semaforo.png)
 
 
 # Proyecto: Pantalla LCD
@@ -70,7 +70,7 @@ Usa un módulo LCD para mostrar el mensaje "Hola Mundo" en la pantalla, se estab
 
 
 # Diagrama:
-![Diagrama Pantalla LCD](imagenes/aguaSensor.png)
+![Diagrama Pantalla LCD](imagenes/lcd.png)
 
 
 # Proyecto: Sensor Ultrasónico y LCD
@@ -85,7 +85,7 @@ Usa un sensor ultrasónico para medir la distancia a un objeto, los valores se m
 - LED conectado al pin 13.
 
 # Diagrama:
-![Diagrama Sensor Ultrasónico y LCD](imagenes/aguaSensor.png)
+![Diagrama Sensor Ultrasónico y LCD](imagenes/lcd, ultrasonico.png)
 
 
 # Proyecto: Sensor Ultrasónico con LEDs y LCD
@@ -101,7 +101,7 @@ Expande la funcionalidad del programa anterior al usar varios LEDs para indicar 
 - Resistencias de 220Ω para cada LED.
 
 # Diagrama:
-![Diagrama  Sensor Ultrasónico con LEDs y LCD](imagenes/aguaSensor.png)
+![Diagrama  Sensor Ultrasónico con LEDs y LCD](imagenes/ultrasonico, lcd y leds.png)
 
 # Proyecto: Sensor de Temperatura y Humedad
 
@@ -116,7 +116,7 @@ Utiliza un sensor DHT11 para medir la temperatura y humedad del entorno, si la t
 
 
 # Diagrama:
-![Diagrama Sensor de temperatura y Humedad](imagenes/aguaSensor.png)
+![Diagrama Sensor de temperatura y Humedad](imagenes/temp y humed.png)
 
 
 # Proyecto:  Sensor Touch
@@ -132,7 +132,7 @@ Un sensor táctil controla tres LEDs, cada vez que se detecta un toque, los LEDs
 
 
 # Diagrama:
-![Diagrama Sensor Touch](imagenes/aguaSensor.png)
+![Diagrama Sensor Touch](imagenes/sensorTouch.png)
 
 
 # Proyecto: Joystick
@@ -148,7 +148,7 @@ El programa utiliza un joystick para controlar cuatro LEDs, asignando movimiento
 
 
 # Diagrama:
-![Diagrama Joystick](imagenes/aguaSensor.png)
+![Diagrama Joystick](imagenes/joystick.png)
 
 
 # Proyecto: Sensor de Agua
@@ -178,7 +178,7 @@ Detecta si el suelo está seco o húmedo, enciende un LED si el suelo está húm
 - Buzzer conectado al pin A1.
 
 # Diagrama:
-![Diagrama Sensor de agua con chichara](imagenes/aguaSensor.png)
+![Diagrama Sensor de agua con chichara](imagenes/sensorHumedadSuelo y Chicharra.png)
 
 
 # Proyecto: ServoMotor
@@ -192,4 +192,4 @@ El programa utiliza un sensor ultrasónico para medir distancias y mover un serv
 - Servo motor conectado al pin 4.
 
 # Diagrama:
-![Diagrama  ServoMotor](imagenes/aguaSensor.png)
+![Diagrama  ServoMotor](imagenes/servomotor.png)
